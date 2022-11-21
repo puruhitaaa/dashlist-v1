@@ -27,8 +27,7 @@
     "react-hook-form": "^7.39.4",
     "superjson": "1.9.1",
     "tailwind-scrollbar-hide": "^1.1.7",
-    "zod": "^3.18.0",
-    "zustand": "^4.1.4"
+    "zod": "^3.18.0"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
